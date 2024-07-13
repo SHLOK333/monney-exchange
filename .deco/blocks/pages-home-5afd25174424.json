@@ -1,42 +1,131 @@
 {
-    "name": "Home",
-    "path": "/",
-    "sections": [
-      {
-        "__resolveType": "Header"
-      },
-      {
-        "__resolveType": "site/sections/Hero.tsx",
-        "title": "<p>Click here to tweak this text however you want.</p>",
-        "cta": [],
-        "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
-      },
-      {
-        "__resolveType": "site/sections/Logos.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx"
-      },
-      {
-        "__resolveType": "site/sections/ImageWithParagraph.tsx",
-        "placement": "right"
-      },
-      {
-        "__resolveType": "site/sections/BlogPosts.tsx"
-      },
-      {
-        "__resolveType": "site/sections/Testimonials.tsx",
-        "arrows": true
-      },
-      {
-        "__resolveType": "site/sections/Faq.tsx"
-      },
-      {
-        "__resolveType": "Footer"
-      }
-    ],
-    "__resolveType": "website/pages/Page.tsx",
-    "seo": {
-      "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p><strong><span style=\"color: #b46e6e\"><mark data-color=\"#888181\" style=\"background-color: #888181; color: inherit\">Your Ultimate Guide to the Universe</mark></span></strong></p>",
+      "cta": [],
+      "description": "paceInfo is dedicated to bringing you the latest and most exciting developments in space exploration, astronomy, and astrophysics. Our blog features in-depth articles, breaking news, and expert insights on everything from space missions and discoveries to the wonders of the cosmos. Whether you're a professional scientist, an amateur astronomer, or just curious about space, SpaceInfo provides a comprehensive and engaging resource for all your space-related interests. Join our community, explore the universe, and stay informed with SpaceInfo",
+      "image": "https://i.pinimg.com/originals/79/a3/84/79a384c3c449ad01b0e57e790807b2c0.gif"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx",
+      "logos": [
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        },
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        },
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        },
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        },
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        },
+        {
+          "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "description": "At SpaceInfo, we are passionate about making space science accessible and engaging for everyone. Our mission is to provide comprehensive and up-to-date information on the latest space exploration missions, astronomical discoveries, and advancements in astrophysics. We offer in-depth articles, breaking news, and expert analysis to keep you informed about the wonders of the cosmos. Whether you're a seasoned scientist, an amateur astronomer, or simply fascinated by space, our blog is your go-to source for insightful and inspiring content. Join us as we explore the universe and share the excitement of space with the world",
+      "title": "What we DO",
+      "image": "https://th.bing.com/th/id/R.483d5ccdf258a61d2bc4d784cae927af?rik=cdlh9TXj1UFE6A&riu=http%3a%2f%2fgaleriedesartistes.g.a.pic.centerblog.net%2f1426b6e1.gif&ehk=1nKv%2bku8uXOjwczL8Nepo%2f%2bzEMdlfLCNe52ZwsdANtg%3d&risl=&pid=ImgRaw&r=0",
+      "tagline": "DIVE IN SPACE"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "title": "SOME OF BLOGS RELATED TO SPACE",
+      "description": "Get to know more about space",
+      "posts": [
+        {
+          "tags": [],
+          "title": "Explore the latest innovations in space travel, including reusable rockets, ion propulsion, and the potential for space tourism. Learn about the ongoing efforts of space agencies and private companies to make space travel more efficient and accessible. Delve into the concepts of long-duration space missions and the challenges of sustaining human life on other planets.",
+          "author": "Dr. Emily Roberts",
+          "excerpt": "Explore the latest innovations in space travel, including reusable rockets, ion propulsion, and the potential for space tourism. Learn about the ongoing efforts of space agencies and private companies to make space travel more efficient and accessible. Delve into the concepts of long-duration space missions and the challenges of sustaining human life on other planets.",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11640/2fe03172-a905-4251-8799-0bf71b5dfb09",
+          "date": "7 June "
+        },
+        {
+          "tags": [],
+          "title": "Unveiling the Mysteries of Black Holes",
+          "author": "Dr. James Mitchell",
+          "excerpt": "Dive into the latest research on black holes, including the recent discoveries made possible by advanced telescopes and observatories. Understand the formation and evolution of black holes, their role in the cosmos, and the groundbreaking Event Horizon Telescope image that brought us the first direct visual evidence of a black hole",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11640/09df0393-a4dc-4d8f-bbf9-710435042a82",
+          "date": "30 june"
+        },
+        {
+          "tags": [],
+          "title": "Mars: Preparing for the Next Frontier",
+          "author": " Dr. Sarah Thompson",
+          "excerpt": "Examine the current state of Mars exploration, from robotic missions like NASA's Perseverance rover to the plans for human colonization. Learn about the technological and logistical hurdles of sending humans to Mars, including life support systems, habitat construction, and the psychological impact of long-duration space travel.",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11640/2c5ad2b9-eac9-46de-9901-a2c0b49d0921",
+          "date": "12 august"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "arrows": true,
+      "title": "CUSTOMER REVIEWS ",
+      "slides": [
+        {
+          "content": {
+            "description": "As an astrophysics researcher, I rely on SpaceInfo for accurate and up-to-date information on the latest space discoveries. The in-depth articles and expert analyses are invaluable to my work. SpaceInfo truly is a treasure trove of knowledge",
+            "name": "Dr. Karen Lee, Astrophysicist"
+          }
+        },
+        {
+          "content": {
+            "description": "I've always been fascinated by space, but SpaceInfo has taken my passion to a whole new level. The blog's detailed coverage of space missions and astronomical phenomena is both educational and inspiring. It's my go-to source for all things cosmic",
+            "name": "Alex Ramirez, Amateur Astronomer"
+          }
+        },
+        {
+          "content": {
+            "description": "SpaceInfo has been a fantastic resource for my students. The clear and engaging content makes complex space topics accessible and interesting. It's a wonderful tool for sparking curiosity and deepening understanding of the universe.",
+            "name": "Alex Ramirez, Amateur Astronomer"
+          }
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx",
+      "questions": [
+        {},
+        {
+          "title": "What kind of topics does SpaceInfo cover?",
+          "answer": "<p>We cover a wide range of topics including space exploration, astronomy, astrophysics, space missions, and the latest news in space science.</p>"
+        },
+        {
+          "title": "How often is the blog updated?",
+          "answer": "<p>Our blog is updated weekly with new articles, news, and insights about the latest developments in space.</p>"
+        },
+        {
+          "title": "Can I contribute to the blog?",
+          "answer": "<p>Yes, we welcome guest contributions from experts and enthusiasts alike. Please contact us for more information on how to submit your articles.</p>"
+        },
+        {
+          "title": "How can I stay updated with new content?",
+          "answer": "<p>You can subscribe to our newsletter, follow us on social media, or regularly visit our blog to stay updated with the latest content</p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
     }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
   }
+}

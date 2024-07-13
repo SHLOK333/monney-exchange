@@ -1,1 +1,18 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[],"buttons":[]}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [],
+    "buttons": [
+      {
+        "id": "about ",
+        "href": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp",
+        "text": "ABOUT ",
+        "outline": true
+      }
+    ]
+  },
+  "logo": {
+    "src": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhvY2ZvN3MwMDJyeWwwdzNmdmhvNzhwYW11b2RoZjYxcGF3YTBoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9ka2lmoXArAohtm/giphy.webp",
+    "alt": "Watchout"
+  }
+}
