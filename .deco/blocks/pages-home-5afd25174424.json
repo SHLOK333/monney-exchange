@@ -9,7 +9,7 @@
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p><strong><span style=\"color: #b46e6e\"><mark data-color=\"#888181\" style=\"background-color: #888181; color: inherit\">Your Ultimate Guide to the Universe</mark></span></strong></p>",
       "cta": [],
-      "description": "paceInfo is dedicated to bringing you the latest and most exciting developments in space exploration, astronomy, and astrophysics. Our blog features in-depth articles, breaking news, and expert insights on everything from space missions and discoveries to the wonders of the cosmos. Whether you're a professional scientist, an amateur astronomer, or just curious about space, SpaceInfo provides a comprehensive and engaging resource for all your space-related interests. Join our community, explore the universe, and stay informed with SpaceInfo",
+      "description": "SpaceInfo is dedicated to bringing you the latest and most exciting developments in space exploration, astronomy, and astrophysics. Our blog features in-depth articles, breaking news, and expert insights on everything from space missions and discoveries to the wonders of the cosmos. Whether you're a professional scientist, an amateur astronomer, or just curious about space, SpaceInfo provides a comprehensive and engaging resource for all your space-related interests. Join our community, explore the universe, and stay informed with SpaceInfo",
       "image": "https://i.pinimg.com/originals/79/a3/84/79a384c3c449ad01b0e57e790807b2c0.gif"
     },
     {
@@ -38,7 +38,7 @@
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
       "description": "At SpaceInfo, we are passionate about making space science accessible and engaging for everyone. Our mission is to provide comprehensive and up-to-date information on the latest space exploration missions, astronomical discoveries, and advancements in astrophysics. We offer in-depth articles, breaking news, and expert analysis to keep you informed about the wonders of the cosmos. Whether you're a seasoned scientist, an amateur astronomer, or simply fascinated by space, our blog is your go-to source for insightful and inspiring content. Join us as we explore the universe and share the excitement of space with the world",
-      "title": "What we DO",
+      "title": "What we DO Or What we are or What we ARE or What we offer",
       "image": "https://th.bing.com/th/id/R.483d5ccdf258a61d2bc4d784cae927af?rik=cdlh9TXj1UFE6A&riu=http%3a%2f%2fgaleriedesartistes.g.a.pic.centerblog.net%2f1426b6e1.gif&ehk=1nKv%2bku8uXOjwczL8Nepo%2f%2bzEMdlfLCNe52ZwsdANtg%3d&risl=&pid=ImgRaw&r=0",
       "tagline": "DIVE IN SPACE"
     },
